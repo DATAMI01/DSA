@@ -1,0 +1,7 @@
+site_name: community-topic
+nav:
+    - Home: index.md
+    - Installation Guide: installation-guide.md
+    - Getting Started: getting-started.md
+    - API Usage: api-reference.md
+theme: readthedocs
